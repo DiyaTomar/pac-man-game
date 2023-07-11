@@ -1,5 +1,4 @@
 """ Name of Program: Pac-Man
-    Date: June 22, 2021
     Author: Diya Tomar
     Brief Description of Program: Pac-Man must eat all the pellets in the maze to win (move using arrow keys)
                                   Colliding with a ghost will make Pac-Man lose
