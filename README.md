@@ -1,7 +1,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![game](https://github.com/DiyaTomar/pac-man-game/assets/44855387/cb2a6800-73c4-476e-854b-fd66aa5c0f3c)
+![game](https://github.com/DiyaTomar/pac-man-game/assets/44855387/c9e0b0b6-9c96-44b5-9ba9-a9635ecab17d)
 
 This is a Python implementation of the classic Pacman arcade game using the Pygame library.
 
